@@ -1,5 +1,5 @@
 Project Name : Vehicle Rental System.
-Live URL : https://vercel.com/sabbir-rayhan-s-projects/vechicle-rental-system/9Axku2jdxvezMffEma5JiURR6Rus
+Live URL : https://vechicle-rental-system-iota.vercel.app
 
 
 
